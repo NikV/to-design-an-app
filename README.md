@@ -1,2 +1,4 @@
-# to-design-an-app
-To Design an App.
+# To Design an App
+_Useful resources for designing an app, only on Github!_
+
+
