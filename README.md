@@ -1,5 +1,5 @@
 # To Design an App
-_Useful resources for designing an app, only on Github!_
+_Useful resources for designing an app, only on Github._
 
 ## Templates
 - https://www.sketchappsources.com/free-source/42-simple-vector-apple-iPhone.html
